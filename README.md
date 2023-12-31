@@ -12,9 +12,9 @@ prototypes
 |__base
 
 | |__fig
-
+|
 |   |__2.jpg
-
+|
 |   |__2_mask.png
 
 | |__hazelnut
